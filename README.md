@@ -297,5 +297,3 @@ The source datasets were published by __Olist__ on Kaggle.
 
 - [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
 - [Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
-
-Dataset attribution and license details are available on the linked source pages.
